@@ -111,11 +111,6 @@ See the `LICENSE` file for full terms.
 At this stage, AuraOS is primarily a **personal research and development project**.  
 Contributions may be considered in the future once the core architecture stabilizes.
 
-## 🧠 Author
-
-**DomirenX**  
-Creator and maintainer of AuraOS
-
 ## 🌌 Final Notes
 
 AuraOS exists because modern systems are often:
